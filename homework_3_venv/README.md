@@ -20,7 +20,7 @@ The repository contains files:
     ```
     git clone <url of repository>
     ```
-
+    
 2. Create a virtual environment named `venv ultraviolence`:
 
     ```
