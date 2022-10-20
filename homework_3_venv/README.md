@@ -49,7 +49,7 @@ or delete 635-636 lines of code:
     # if index is not None and isinstance(index, set):
         # raise ValueError("index cannot be a set")
     ```
-For quick code editing, I recommend using Notepad++. But you can use any code editor.
+    For quick code editing, I recommend using Notepad++. But you can use any code editor.
 
 6. Finally! You can run the script:
 
