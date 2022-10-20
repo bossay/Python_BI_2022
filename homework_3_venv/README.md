@@ -35,7 +35,7 @@ The repository contains files:
 
 4. Run package installation from `requirements.txt`:
 
-`Attention! If the requirements.txt is not in the current directory, write the full path to the file.`
+   `Attention! If the requirements.txt is not in the current directory, write the full path to the file.`
 
     ```
     pip install -r requirements.txt
@@ -53,7 +53,7 @@ For quick code editing, I recommend using Notepad++. But you can use any code ed
 
 6. Finally! You can run the script:
 
-`Attention! If the ultraviolence.py is not in the current directory, write the full path to the file.`
+   `Attention! If the ultraviolence.py is not in the current directory, write the full path to the file.`
 
     ```
     python ultraviolence.py
