@@ -23,6 +23,28 @@ Authors: Alexandra Kasyanova ([albidgy](https://github.com/albidgy)), Amina Ibra
 + tail.py (-n)
 + uniq.py
 
+## Installing and running programs
+
++ Download this repository
++ Make the program files executable
+
+```{ruby}
+chmod +x program.py
+```
+
++ Run the program with the necessary options
+
+```{ruby}
+programm.py -option file.txt
+```
+The running of the programs is described in more detail below.
+
++ To get help for any program use the command
+
+```{ruby}
+program.py -h
+```
+
 ## wc.py (-l, -w, -c)
 **wc.py** is used to find out number of lines, word count, byte and characters count in the files specified in the file arguments.
 
